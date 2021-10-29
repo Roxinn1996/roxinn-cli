@@ -25,7 +25,7 @@ yarn
 ## use
 
 ```
-    downrp
+    roxinn
 ```
 
 ## download custom repository
@@ -42,7 +42,7 @@ you can download your private custom project on this kit, choose **private** rep
 ## use
 
 ```
-    downrp-save
+    roxinn-save
 ```
 
 use save repository instruction that you can write your repository information to local strage.

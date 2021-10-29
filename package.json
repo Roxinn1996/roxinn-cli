@@ -11,8 +11,8 @@
     "typescript": "^4.3.5"
   },
   "bin": {
-    "downrp": "./dist/index.js",
-    "downrp-save": "./dist/save.js"
+    "roxinn-init": "./dist/index.js",
+    "roxinn-save": "./dist/save.js"
   },
   "name": "roxinn-cli",
   "version": "0.2.1",
@@ -36,14 +36,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/"
+    "url": "https://github.com/Roxinn1996/roxinn-cli"
   },
   "keywords": [
     "get template",
     "cli",
     "javascript"
   ],
-  "author": "Jeremy Yu",
+  "author": "Roxinn",
   "license": "MIT",
   "description": "a create project cli tools"
 }
