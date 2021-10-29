@@ -1,4 +1,4 @@
-# downrp-cli
+# roxinn-cli
 
 a simple create project template tools
 
@@ -13,13 +13,13 @@ a simple create project template tools
 npm
 
 ```javascript
-   npm install downrp-cli -g
+   npm install roxinn-cli -g
 ```
 
 yarn
 
 ```javascript
-    yarn global add downrp-cli
+    yarn global add roxinn-cli
 ```
 
 ## use
