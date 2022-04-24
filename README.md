@@ -2,13 +2,7 @@
 
 a simple create project template tools
 
-## why
-
-- you can use it to create a project fast
-- it can download your custom project template
-- and it can download your private custom project repository
-
-## install
+## 安装
 
 npm
 
@@ -16,16 +10,10 @@ npm
    npm install roxinn-cli -g
 ```
 
-yarn
-
-```javascript
-    yarn global add roxinn-cli
-```
-
-## use
+## 使用
 
 ```
-    roxinn
+    roxinn-init
 ```
 
 ## download custom repository
